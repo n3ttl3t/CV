@@ -35,7 +35,7 @@ There is always a solution, and a way to improve it.
 Project | Description | Timeframe | Technologies
 ---|---|---|---
 [Mandala-coaster](https://github.com/n3ttl3t/mandala-coaster) | Personal project, a virtual reality pattern generator | WIP | Unity, C#, NUnit, GearVR
-[Hide and Go Beetroot](https://github.com/Carlton7/vr-hide-and-go-leek) | Final team project at Makers, a virtual reality maze game | 9 days | Unity, C#, GearVR
+[Hide and Go Beetroot](https://github.com/marbuthnott/hide_and_go_beetroot) | Final team project at Makers, a virtual reality maze game | 9 days | Unity, C#, GearVR
 [SpaceBook](https://github.com/fetc90/acebook-spacebook) | Team project imitating Facebook | 9 days | Ruby on Rails, RSpec, Capybara, CSS, Travis
 [MakersBnB](https://github.com/n3ttl3t/Makers-Bnb) | Team project imitating AirBnB | 5 days | Ruby, Rspec, Sinatra, PostgrsQL, Datamapper
 
