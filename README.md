@@ -1,19 +1,26 @@
-## Nicholas Barnes
+# Nicholas Barnes
 
 I'm a fresh full stack developer and experienced artist equipped with strong ideation and the processes to build anything.
 
 I have just finished studying at Makers Academy, an intensive developer acceleration course. 
 
-I'm looking for my first developer role in an environment that supports learning and lets creativity flourish.
+
+## Direction
+
+Makers gave me the confidence to continue with being a developer as a life-long career, by providing a broad scope of evidence of what can be achieved when the right processes are applied.
+
+Now I'd like to maintain the pace and trajectory of learning the craft of code to as high a level of capability and qualilty as possible.
+
+I'm looking for my first role in an environment that supports in-depth learning and expects their developers to be curious about the application of different programming paradigms, patterns, and architecture.
 
 ## Skills
 
 #### Quick on the uptake
 
-The tools to create a project are just that. The why is the root of any endeavour.
+I'm happy to take on the tools appropriate to the situation.
 
 Diving into coding was motivated by a need to have a way to take thoughts forward and realise them in the world. 
-I'm consistently astonished by the scope of problems code can be applied to. As it will enable me to build the things I want to see, I value it highly and am actively learning to apply it.
+I'm consistently astonished by the scope of problems code can be applied to. As it will enable me to build the things I want to see, I value it highly and am actively learning to use it.
 
 I'm driven by interesting concepts. For my final project at Makers, I couldn't shake the urge to give people a unique experience. To this end, I designed a maze generating algorithm to provide a new level every time the game is played. This was written in C# (a language I hadn't really used before the project), in one day.
 
@@ -85,7 +92,7 @@ Highlight - Having a film of mine screened at Manchester Gallery, scored by a li
 
 ## Passions
 
-I've always got a myriad unfinished projects on the go in as many discipines as necessary to satisfy whichever particular expressive urge I'm feeling.
+I've always got myriad unfinished projects on the go in as many discipines as necessary to satisfy whichever particular expressive urge I'm feeling.
 These include but aren't limited to:
 - Writing journals, poetry, outlines for games
 - Interactive art sketches for android and command line
@@ -93,7 +100,7 @@ These include but aren't limited to:
 - Calligraphy
 - Digital sculpture
 
-Beyond creative output I'm an avid consumer of art and media, and I swim, meditate and practice yoga.
+Beyond creative output I'm an avid consumer of art and media, and I swim, meditate, practice yoga, and take care of plants.
 
 ## Contact:
 
