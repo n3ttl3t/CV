@@ -84,7 +84,7 @@ I knew I wanted to attend some kind of coding bootcamp, and that would require f
 **Freelance animator (2012 to 2017)** 
 *Direction, storyboarding, animating*
 
-Pitching on music videos meant I had to quickly visualise and communicate the essence of the project, and then find the most effective way to execute. This including researching aesthetics, tools, and techniques.
+Pitching on music videos meant I had to quickly visualise and communicate the essence of the project, and then find the most effective way to execute. This including researching aesthetics, tools, and techniques. I'm adept at using creative softwares for 2d and 3d art.
 
 Highlight - Having a film of mine screened at Manchester Gallery, scored by a live seventeen piece orchestra.
 
