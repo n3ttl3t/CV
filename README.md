@@ -105,4 +105,4 @@ Beyond creative output I'm an avid consumer of art and media, and I swim, medita
 
 ## Contact:
 
-[email](n3ttl3t@gmail.com)
+n3ttl3t@gmail.com
