@@ -7,11 +7,11 @@ I have just finished studying at Makers Academy, an intensive developer accelera
 
 ## Direction
 
-Makers gave me the confidence to continue with being a developer as a life-long career, by providing a broad scope of evidence of what can be achieved when the right processes are applied.
+Makers gave me the confidence to be a developer by initiating self-directed learning, that resulted in strong evidence of what can be achieved when the right processes are applied.
 
 Now I'd like to maintain the pace and trajectory of learning the craft of code to as high a level of capability and quality as possible.
 
-I'm looking for my first role in an environment that supports in-depth learning and expects their developers to be curious about the application of different programming paradigms, patterns, and architecture.
+I'm looking for my first role in an environment that supports in-depth learning and expects their developers to be curious about the application of different programming paradigms, principles, patterns, and architecture.
 
 ## Skills
 
